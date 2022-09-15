@@ -19,8 +19,8 @@ live_not_found = 'لایوی پیدا نشد!'
 
 user_info = '*%s*\n\n[@%s](%s)'
 
-def_username = 'myfirstpj'
-def_password = 'w951q951'
+def_username = 'prvping'
+def_password = 'Beno@123'
 
 lottery_msg = '''
 قرعه کشی پیج %s انجام شد 
